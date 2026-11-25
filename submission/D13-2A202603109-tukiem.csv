@@ -1,0 +1,65 @@
+frame,idx,label,dist_m,points_in,ground_gap_m,flags,bang_a_sha256
+s01f11,1,Car,6.0,1701,0.31,length=1.59 ngoài khoảng 3.0–6.0 của Car; width=3.54 ngoài khoảng 1.4–2.3 của Car; height=1.13 ngoài khoảng 1.2–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f11,2,Car,12.6,682,-1.01,đáy thấp hơn mặt đường 1.01 m (chìm?); length=1.95 ngoài khoảng 3.0–6.0 của Car; width=3.84 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f11,3,Car,21.7,260,-0.12,length=1.70 ngoài khoảng 3.0–6.0 của Car; width=3.84 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f11,4,Bus,39.0,489,-0.01,length=3.09 ngoài khoảng 6.0–18.0 của Bus; width=13.05 ngoài khoảng 2.0–3.2 của Bus; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f11,5,Car,24.0,239,0.02,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f11,6,Car,15.5,210,-0.58,đáy thấp hơn mặt đường 0.58 m (chìm?); length=2.13 ngoài khoảng 3.0–6.0 của Car; width=4.27 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f11,7,Pedestrian,14.3,161,0.25,"153 điểm sát ngay ngoài mép (quá chật, hay vật bên cạnh?)",8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f36,1,Car,10.1,1572,0.05,length=1.83 ngoài khoảng 3.0–6.0 của Car; width=4.61 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f36,2,Car,9.9,1216,-0.00,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f36,3,Cyclist,11.9,408,0.31,length=0.93 ngoài khoảng 1.0–2.4 của Cyclist; width=1.41 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f36,4,Cyclist,10.2,449,0.07,length=0.83 ngoài khoảng 1.0–2.4 của Cyclist; width=1.54 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f36,5,Cyclist,10.4,336,0.23,length=0.69 ngoài khoảng 1.0–2.4 của Cyclist; width=1.32 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s01f36,6,Cyclist,11.7,257,0.15,width=1.38 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f02,1,Truck,3.5,16285,0.07,length=3.05 ngoài khoảng 4.0–18.0 của Truck; width=11.97 ngoài khoảng 1.6–3.2 của Truck; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f02,2,Car,16.2,506,-0.06,length=2.14 ngoài khoảng 3.0–6.0 của Car; width=4.50 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f02,3,Car,15.4,638,-0.02,length=1.94 ngoài khoảng 3.0–6.0 của Car; width=4.98 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f02,4,Car,16.8,412,-0.10,length=1.94 ngoài khoảng 3.0–6.0 của Car; width=4.49 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,1,Pedestrian,7.6,298,0.18,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,2,Cyclist,8.8,470,0.02,length=0.95 ngoài khoảng 1.0–2.4 của Cyclist; width=1.50 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,3,Car,3.9,3645,0.02,length=2.35 ngoài khoảng 3.0–6.0 của Car; width=4.43 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,4,Car,11.5,824,-0.06,length=1.88 ngoài khoảng 3.0–6.0 của Car; width=4.01 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,5,Car,15.4,526,-0.13,length=2.02 ngoài khoảng 3.0–6.0 của Car; width=4.78 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,6,Car,16.8,650,0.21,length=2.23 ngoài khoảng 3.0–6.0 của Car; width=5.22 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,7,Car,10.0,831,0.09,length=2.18 ngoài khoảng 3.0–6.0 của Car; width=4.47 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s02f20,8,Car,15.2,648,0.26,length=1.70 ngoài khoảng 3.0–6.0 của Car; width=4.25 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,1,Car,5.3,1902,0.05,length=1.77 ngoài khoảng 3.0–6.0 của Car; width=3.98 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,2,Car,11.7,643,0.23,length=2.04 ngoài khoảng 3.0–6.0 của Car; width=3.76 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,3,Car,10.8,1411,0.01,length=1.45 ngoài khoảng 3.0–6.0 của Car; width=4.38 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,4,Truck,18.3,369,-0.06,length=1.47 ngoài khoảng 4.0–18.0 của Truck; width=4.65 ngoài khoảng 1.6–3.2 của Truck; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,5,Car,4.5,2455,-0.21,length=1.73 ngoài khoảng 3.0–6.0 của Car; width=4.54 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,6,Car,10.4,1153,-0.05,length=1.75 ngoài khoảng 3.0–6.0 của Car; width=4.72 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,7,Car,8.3,1304,0.02,length=1.74 ngoài khoảng 3.0–6.0 của Car; width=4.54 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,8,Car,17.8,273,-0.17,length=1.79 ngoài khoảng 3.0–6.0 của Car; width=4.68 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f12,9,Truck,27.0,311,-0.14,length=2.65 ngoài khoảng 4.0–18.0 của Truck; width=5.60 ngoài khoảng 1.6–3.2 của Truck; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f46,1,Car,4.5,2547,-0.14,length=1.84 ngoài khoảng 3.0–6.0 của Car; width=4.75 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f46,2,Car,9.1,1277,-0.15,length=1.88 ngoài khoảng 3.0–6.0 của Car; width=4.43 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f46,3,Car,14.1,760,0.13,length=2.25 ngoài khoảng 3.0–6.0 của Car; width=4.00 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f46,4,Car,28.4,151,-0.13,length=2.23 ngoài khoảng 3.0–6.0 của Car; width=4.45 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f46,5,Cyclist,11.9,286,0.18,length=0.87 ngoài khoảng 1.0–2.4 của Cyclist; width=1.64 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s03f46,6,Cyclist,7.1,594,-0.04,width=1.92 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,1,Car,7.5,2131,-0.01,length=1.86 ngoài khoảng 3.0–6.0 của Car; width=3.63 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,2,Car,11.7,1363,-0.02,length=1.97 ngoài khoảng 3.0–6.0 của Car; width=4.20 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,3,Car,10.5,1755,0.04,length=2.18 ngoài khoảng 3.0–6.0 của Car; width=4.75 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,4,Car,20.0,497,-0.01,length=2.33 ngoài khoảng 3.0–6.0 của Car; width=3.95 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,5,Car,25.7,129,0.22,length=1.85 ngoài khoảng 3.0–6.0 của Car; width=4.32 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,6,Car,22.1,360,-0.01,length=1.99 ngoài khoảng 3.0–6.0 của Car; width=4.11 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,7,Cyclist,15.3,243,-0.11,width=2.50 ngoài khoảng 0.3–1.2 của Cyclist; height=2.23 ngoài khoảng 1.0–2.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,8,Car,25.0,328,0.14,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,9,Car,25.7,304,-0.16,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,10,Car,28.1,229,0.09,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f24,11,Car,33.6,138,-0.10,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f43,1,Car,6.3,3176,0.11,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f43,2,Car,7.0,1839,0.06,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f43,3,Car,25.1,342,-0.13,width=2.41 ngoài khoảng 1.4–2.3 của Car,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f43,4,Car,26.8,181,-0.19,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s04f43,5,Cyclist,16.4,151,0.17,width=2.09 ngoài khoảng 0.3–1.2 của Cyclist; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,1,Truck,12.7,6201,0.22,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,2,Car,17.2,893,0.13,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,3,Car,6.2,3747,-0.03,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,4,Car,13.1,808,0.17,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,5,Car,19.5,555,-0.18,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,6,Car,22.1,382,0.11,length=2.40 ngoài khoảng 3.0–6.0 của Car; width=5.14 ngoài khoảng 1.4–2.3 của Car; length < width: mũi tên yaw có dọc thân xe không?,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f17,7,Car,20.4,633,0.45,đáy cao hơn mặt đường 0.45 m (lơ lửng?); width=2.87 ngoài khoảng 1.4–2.3 của Car; height=2.45 ngoài khoảng 1.2–2.3 của Car,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
+s05f37,1,Car,22.5,309,0.14,,8aaa693aea05482212592ed01de644c80586c76623bb21354589b3fea6801c64
